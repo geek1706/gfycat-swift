@@ -1,7 +1,7 @@
 # GfycatSwift
 A Gfycat API Client written in Swift 3.0
 
-[![CI Status](http://img.shields.io/travis/geek/GfycatSwift.svg?style=flat)](https://travis-ci.org/geek1706/GfycatSwift)
+[![CI Status](https://travis-ci.org/geek1706/GfycatSwift.svg?branch=master)](https://travis-ci.org/geek1706/GfycatSwift)
 [![Version](https://img.shields.io/cocoapods/v/GfycatSwift.svg?style=flat)](http://cocoapods.org/pods/GfycatSwift)
 [![License](https://img.shields.io/cocoapods/l/GfycatSwift.svg?style=flat)](http://cocoapods.org/pods/GfycatSwift)
 [![Platform](https://img.shields.io/cocoapods/p/GfycatSwift.svg?style=flat)](http://cocoapods.org/pods/GfycatSwift)
