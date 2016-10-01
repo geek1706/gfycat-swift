@@ -5,6 +5,7 @@ A Gfycat API Client written in Swift 3.0
 [![Version](https://img.shields.io/cocoapods/v/GfycatSwift.svg?style=flat)](http://cocoapods.org/pods/GfycatSwift)
 [![License](https://img.shields.io/cocoapods/l/GfycatSwift.svg?style=flat)](http://cocoapods.org/pods/GfycatSwift)
 [![Platform](https://img.shields.io/cocoapods/p/GfycatSwift.svg?style=flat)](http://cocoapods.org/pods/GfycatSwift)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 ## Requirements
 
@@ -47,7 +48,7 @@ Gfycat.trending("funny") { (results, error) in
 Gfycat.trendingTags { (results, error) in
 // Do something with tags
 }
-// Get trending tags with pre-populeted gifs
+// Get trending tags with pre-populated gifs
 Gfycat.trendingTagsPopulated { (results, error) in
 // Do something with gifs
 }
