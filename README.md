@@ -41,21 +41,22 @@ Gfycat.trending { (results, error) in
 
 // Get trending gifs with a tag name
 Gfycat.trending("funny") { (results, error) in
-// Do something with gifs
+  // Do something with gifs
 }
 
 // Get trending tags
 Gfycat.trendingTags { (results, error) in
-// Do something with tags
+  // Do something with tags
 }
+
 // Get trending tags with pre-populated gifs
 Gfycat.trendingTagsPopulated { (results, error) in
-// Do something with gifs
+  // Do something with gifs
 }
 
 // Search
 Gfycat.search("funny") { (results, error) in
-// Do something with gifs
+  // Do something with gifs
 }
 ```
 
