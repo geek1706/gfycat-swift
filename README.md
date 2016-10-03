@@ -62,7 +62,7 @@ Gfycat.search("funny") { (results, error) in
 
 ## Author
 
-[Trung Nguyen](twitter.com/geek1706)
+Trung Nguyen, trung1706@gmail.com
 
 ## License
 
