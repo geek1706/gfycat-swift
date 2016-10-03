@@ -36,7 +36,7 @@ github "geek1706/GfycatSwift"
 ```swift
 // Get trending gifs
 Gfycat.trending { (results, error) in
-// Do something with gifs
+  // Do something with gifs
 }
 
 // Get trending gifs with a tag name
