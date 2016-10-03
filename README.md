@@ -1,5 +1,5 @@
 # GfycatSwift
-A Gfycat API Client written in Swift 3.0
+A [Gfycat](https://gfycat.com/) API Client written in Swift 3.0
 
 [![CI Status](https://travis-ci.org/geek1706/GfycatSwift.svg?branch=master)](https://travis-ci.org/geek1706/GfycatSwift)
 [![Version](https://img.shields.io/cocoapods/v/GfycatSwift.svg?style=flat)](http://cocoapods.org/pods/GfycatSwift)
