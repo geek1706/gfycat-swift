@@ -35,27 +35,27 @@ github "geek1706/GfycatSwift"
 
 ```swift
 // Get trending gifs
-Gfycat.trending { (results, error) in
+Gfycat.trending { results, error in
   // Do something with gifs
 }
 
 // Get trending gifs with a tag name
-Gfycat.trending("funny") { (results, error) in
+Gfycat.trending("funny") { results, error in
   // Do something with gifs
 }
 
 // Get trending tags
-Gfycat.trendingTags { (results, error) in
+Gfycat.trendingTags { results, error in
   // Do something with tags
 }
 
 // Get trending tags with pre-populated gifs
-Gfycat.trendingTagsPopulated { (results, error) in
+Gfycat.trendingTagsPopulated { results, error in
   // Do something with gifs
 }
 
 // Search
-Gfycat.search("funny") { (results, error) in
+Gfycat.search("funny") { results, error in
   // Do something with gifs
 }
 ```
