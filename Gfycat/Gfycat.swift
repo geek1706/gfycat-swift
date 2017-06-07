@@ -52,7 +52,7 @@ public struct Gfycats {
     /// results
     let items: [Gfycat]
 
-    /// curfor for paging
+    /// cursor for paging
     let cursor: String?
 
     ///total items in results
